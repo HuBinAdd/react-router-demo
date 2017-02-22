@@ -1,2 +1,2 @@
-¹Ù·½demo×öÁË²¿·ÖĞŞ¸Ä£¬¼ÓÈëÁËĞŞ¸Ä
-ÍÆ¼ö²©¿Í[ÈîÒ»·å--React Router Ê¹ÓÃ½Ì³Ì]: http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu
+å®˜æ–¹demoåšäº†éƒ¨åˆ†ä¿®æ”¹ï¼ŒåŠ å…¥äº†ä¿®æ”¹
+æ¨èåšå®¢[é˜®ä¸€å³°--React Router ä½¿ç”¨æ•™ç¨‹](http://www.ruanyifeng.com/blog/2016/05/react_router.html?utm_source=tool.lu)
