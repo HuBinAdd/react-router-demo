@@ -12,6 +12,8 @@ export default React.createClass({
     const repo = event.target.elements[1].value
     const path = `/repos/${userName}/${repo}`
     this.context.router.push(path)
+    //或者使用
+    //browserHistory.push(path)
   },
 
   render() {
